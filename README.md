@@ -6,9 +6,7 @@ The book [Cracking the Coding Interview](http://www.crackingthecodinginterview.c
 
 I would recommend using C++, Java, or Python as a coding language. I was once told by a company that they preferred I use a statically typed language like C++ or Java, but most places will gladly accept Python. Python's terse syntax can also help you arrive at a solution with less writing. Ultimately, you should choose one of the three (probably the one you have the most experience with) and stick with it.
 
-In 2019, I worked with Matt (not real name), a college junior, to prepare for software engineering interviews. In addition to some coaching on topics like the above, I helped source problems for Matt to work through at his own pace. I decided on the online platform LeetCode, which supports a variety of languages and shows how your runtime and memory compares against those of other participants. 
-
-The rest of this README contains a list of problems we selected, from the online platform LeetCode. These are all from the free section of LeetCode; you can also pay for access to other problems. LeetCode has forums that you can look through if you get stuck, which contain many complete solutions.
+In 2019, I worked with Matt (not real name), a college junior, to prepare for software engineering interviews. In addition to some coaching on topics like the above, I helped source problems for Matt to work through at his own pace. I decided on the online platform LeetCode, which supports a variety of languages and shows how your runtime and memory compares against those of other participants. The rest of this README contains a list of problems we selected. These are all from the free section; you can also pay for access to other problems. LeetCode has forums that you can look through if you get stuck, which contain many complete solutions.
 
 ## LinkedList
 2. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
